@@ -21,5 +21,8 @@ A Python-based GUI tool that simulates watching YouTube videos with multiple vie
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/Naresh-11/youtube-bot.git
+   cd youtube-bot
+   pip install -r requirements.txt
+   python video.py **or** python3 video.py
+   
