@@ -4,7 +4,7 @@ A Python-based GUI tool that simulates watching YouTube videos with multiple vie
 
 ## Preview 📸
 
-![Preview](https://github.com/Naresh-11/youtube-bot/blob/main/Screenshot%202024-10-19%20125444.png)
+<img src="https://github.com/Naresh-11/youtube-bot/blob/main/Screenshot%202024-10-19%20125444.png" alt="YouTube Video Watcher Bot Preview" width="600"/>
 *Example of the YouTube Video Watcher Bot UI*
 
 ## Features 🚀
